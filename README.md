@@ -48,7 +48,7 @@ and regions.
 | New columns added | Order Year, Order Month, Shipping Days, Profit Margin |
 | Final dataset size | 51,289 rows × 30 columns |
 
-## Files in this Folder
+## Files for this task
 * `SCT_Task2_Data_Cleaning_Preparation.ipynb` – the notebook with all cleaning steps
 * `superstore.csv` – original raw dataset
 * `Global_Superstore_Cleaned.csv` – final cleaned dataset
